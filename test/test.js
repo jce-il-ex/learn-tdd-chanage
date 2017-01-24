@@ -1,3 +1,4 @@
+//hello
 var assert = require("assert"); // node.js core module
 
 var assert = require("assert"); // core module
